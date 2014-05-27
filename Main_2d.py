@@ -1,6 +1,6 @@
 # ############################################################################# #
 # Modified and implemented Filtersim (R) (Zhang, et.al. 2006) algorithm by      #
-# Sebastian Avalos @ Universidad de Chile - 2014 - sebastian.avaloss@gmail.com  #                                                                     #
+# Sebastian Avalos @ University of Chile - 2014 - sebastian.avaloss@gmail.com  #                                                                     #
 # ############################################################################# #
 
 import random as ran 
